@@ -1,4 +1,4 @@
-# C64-Choplifter
+# Programming II Project - KI2, TH Deggendorf
 
 ## Description
 Java Programming II's project in 2nd semester of my course Artificial Intelligence. The aim of this project is to create a Commondore 64 a.k.a C64 game. 
